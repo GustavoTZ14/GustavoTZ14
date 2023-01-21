@@ -1,6 +1,6 @@
 <div>
   <h1>Gustavo Terrin Zara</h1>
-  <p>Estou estudando Engenharia de Software, e aprofundado em JavaScript e React.j, Next.js, visão de estudos em Flutter e Java.</p>
+  <p>Estou estudando Engenharia de Software, e aprofundado em JavaScript e React.j, Next.js, visão de estudos em Flutter,Java,C,C++ e C#.</p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,3 +11,4 @@
   <img align="center" alt="gustavo-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="gustavo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
